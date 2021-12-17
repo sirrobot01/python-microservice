@@ -1,0 +1,16 @@
+.idea
+.DS_store
+__pycache__
+.python_history
+data
+*.pyc
+.localstack/
+
+.python-version
+masterlog.log
+tmp/
+venv*/
+.idea/
+.vscode/
+**/venv
+*.env
